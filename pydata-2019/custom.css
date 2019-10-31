@@ -3,4 +3,6 @@
     font-size: 300%;
 }
 
-
+.dataframe {
+    font-size: 50% !important;
+}
